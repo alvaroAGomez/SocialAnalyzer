@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SocialAnalyzer/bin/Debug/net5.0
+/SocialAnalyzer/obj
+/SocialAnalyzer.DAL/bin/Debug/net5.0
+/SocialAnalyzer.DAL/obj
+/SocialAnalyzer.SDK/bin/Debug/net5.0
+/SocialAnalyzer.SDK/obj
+/SocialAnalyzer.Services/bin/Debug/net5.0
+/SocialAnalyzer.Services/obj
